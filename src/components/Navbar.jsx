@@ -38,7 +38,7 @@ const Navbar = () => {
                 {/* Company Logo on Right */}
                 <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
                     <Typography variant="h6" component="div">
-                        MyCompany
+                        V&P IT SOLUTIONS
                     </Typography>
                     <IconButton color="inherit">
                         <BusinessIcon />

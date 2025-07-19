@@ -21,10 +21,10 @@ const Footer = () => {
           {/* About Section */}
           <Grid item xs={12} sm={4}>
             <Typography variant="h6" gutterBottom>
-              MyCompany
+              V&P IT SOLUTIONS
             </Typography>
             <Typography variant="body2">
-              We deliver innovative IT and software solutions to help businesses grow and transform digitally.
+               innovative IT and software solutions to help businesses grow and transform digitally.
             </Typography>
           </Grid>
 
@@ -48,15 +48,15 @@ const Footer = () => {
             </Typography>
             <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
               <EmailIcon fontSize="small" />
-              <Typography variant="body2">info@mycompany.com</Typography>
+              <Typography variant="body2">vandpitsolutions@gmail.com</Typography>
             </Box>
             <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, mt: 1 }}>
               <PhoneIcon fontSize="small" />
-              <Typography variant="body2">+91 98765 43210</Typography>
+              <Typography variant="body2">+91 7524979500</Typography>
             </Box>
             <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, mt: 1 }}>
               <LocationOnIcon fontSize="small" />
-              <Typography variant="body2">Mumbai, India</Typography>
+              <Typography variant="body2">Lucknow, India</Typography>
             </Box>
 
             <Box sx={{ mt: 2 }}>
@@ -72,7 +72,7 @@ const Footer = () => {
 
         <Box sx={{ textAlign: 'center', mt: 4 }}>
           <Typography variant="body2" color="inherit">
-            &copy; {new Date().getFullYear()} MyCompany. All rights reserved.
+            &copy; {new Date().getFullYear()} @vandpitsolutions. All rights reserved.
           </Typography>
         </Box>
       </Container>
