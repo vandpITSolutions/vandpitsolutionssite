@@ -6,6 +6,9 @@ import Home from './pages/Home.jsx';
 import Service from './pages/Service.jsx';
 import About from './pages/AboutUs.jsx';
 import Contact from './pages/Contact.jsx';
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+
 
 function App() {
   return (
